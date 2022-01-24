@@ -8,7 +8,7 @@
 - [MostByte/cafe](https://github.com/mostbyte/cafe) - Automation of cafe services
 
 #### 📜 I'm on social medias  [link](https://linktr.ee/dustmurodov)
-- [Instagran](https://www.instagram.com/_dorsone/)
-- [Facebook](https://www.facebook.com/dorsonee)
-- [Telegram](https://t.me/dorsonee)
-- [Twitter](https://twitter.com/dorsonee)
+- [link](https://www.instagram.com/_dorsone/) - My blog on Instagram
+- [link](https://www.facebook.com/dorsonee) - My official page on Facebook
+- [link](https://t.me/dorsonee) -  If you have a questions, my telegram
+- [link](https://twitter.com/dorsonee) - Me on Twitter
