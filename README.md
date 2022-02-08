@@ -1,7 +1,7 @@
 ### Hey 👋
 
 #### 👷 Check out what I'm currently working on
-- [tredium-news](https://github.com/Dorsone/tredium-news) - Gaming platform
+- [tredium-news](https://github.com/Dorsone/tredium-news) - News portal
 
 #### 🌱 My projects
 - [maingame](https://github.com/Dorsone/maingame) - Gaming platform
