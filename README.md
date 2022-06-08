@@ -15,4 +15,4 @@
 <!-- - [Twitter](https://twitter.com/dorsonee) - Me on Twitter -->
 
 #### 👨‍💻 My Codewars Stats
-- <a style="pointer-events: none;  cursor: default;" href="https://www.codewars.com/users/Dorsone/badges/micro"></a>
+- <a style="pointer-events: none;  cursor: default;" href="javascript:void(0)"><img src='https://www.codewars.com/users/Dorsone/badges/micro'></a>
