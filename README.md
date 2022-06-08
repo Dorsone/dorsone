@@ -14,7 +14,5 @@
 - [Telegram](https://t.me/dorsonee) -  If you have a question, my Telegram
 <!-- - [Twitter](https://twitter.com/dorsonee) - Me on Twitter -->
 
-#### <img width='16' class="w-full h-full" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"> My Codewars Stats
-<a style="pointer-events: none;  cursor: default;">
-  <img style="pointer-events: none; cursor: default;" src="https://www.codewars.com/users/Dorsone/badges/micro">
-</a>
+#### 👨‍💻 My Codewars Stats
+- <a style="pointer-events: none;  cursor: default;"> <img style="pointer-events: none; cursor: default;" src="https://www.codewars.com/users/Dorsone/badges/micro"> </a>
