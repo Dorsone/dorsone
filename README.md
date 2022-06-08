@@ -13,4 +13,5 @@
 <!-- - [Facebook](https://www.facebook.com/dorsonee) - My official page on Facebook -->
 - [Telegram](https://t.me/dorsonee) -  If you have a question, my Telegram
 <!-- - [Twitter](https://twitter.com/dorsonee) - Me on Twitter -->
-<img src="https://www.codewars.com/users/Dorsone/badges/micro">
+
+<img style="pointer-events: none; cursor: default;" src="https://www.codewars.com/users/Dorsone/badges/micro">
