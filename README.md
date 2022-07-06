@@ -8,8 +8,8 @@
 - [MostByte/cafe](https://github.com/mostbyte/cafe) - Automation of cafe services
 <!-- - [tredium-news](https://github.com/Dorsone/tredium-news) - News portal -->
 
-#### 📜 I'm on social medias  [link](https://linktr.ee/dustmurodov)
-- [Instagram](https://www.instagram.com/_dorsone/) - My blog on Instagram
+#### 📜 I'm on social medias  [link](https://linktr.ee/dorsonee)
+- [Instagram](https://www.instagram.com/dorsoneee/) - My blog on Instagram
 <!-- - [Facebook](https://www.facebook.com/dorsonee) - My official page on Facebook -->
 - [Telegram](https://t.me/dorsonee) -  If you have a question, my Telegram
 <!-- - [Twitter](https://twitter.com/dorsonee) - Me on Twitter -->
